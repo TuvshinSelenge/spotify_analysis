@@ -11,19 +11,19 @@ The project analyzes Spotify playlist data to explore trends and build predictiv
 Features
 
 	•	Data Preprocessing:
-	•	Handling missing values.
-	•	Feature engineering, such as extracting release year from dates.
-	•	Dropping irrelevant columns like track IDs and playlist names.
+			Handling missing values.
+			Feature engineering, such as extracting release year from dates.
+			Dropping irrelevant columns like track IDs and playlist names.
 	•	Machine Learning Models:
-	•	Ridge Regression
-	•	Stochastic Gradient Descent (SGD) Regressor
-	•	Random Forest Regressor (final selected model).
+			Ridge Regression
+			Stochastic Gradient Descent (SGD) Regressor
+			Random Forest Regressor (final selected model).
 	•	Hyperparameter Tuning:
-	•	Optimized models using RandomizedSearchCV and GridSearchCV.
+			Optimized models using RandomizedSearchCV.
 	•	Evaluation Metrics:
-	•	Mean Squared Error (MSE)
-	•	Mean Absolute Error (MAE)
-	•	R² Score
+			Mean Squared Error (MSE)
+			Mean Absolute Error (MAE)
+			R² Score
 
 Installation
 
