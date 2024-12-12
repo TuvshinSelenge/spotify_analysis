@@ -9,6 +9,13 @@ This repository contains a comprehensive analysis of Spotify data, focusing on p
 The project analyzes Spotify playlist data to explore trends and build predictive models. It involves extensive data preprocessing, feature engineering, and machine learning. The ultimate goal is to understand the data’s patterns and predict playlist trends using various models.
 
 ---
+## Dataset
+
+The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs?select=spotify_songs.csv). It contains 30,000 Spotify songs with features such as track names, artists, and various audio characteristics. 
+
+The dataset file, `spotify_songs.csv`, has been used as the basis for preprocessing, analysis, and modeling in this project. For more details about the dataset, you can visit the [Kaggle page](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs?select=spotify_songs.csv).
+
+---
 
 ## Features
 
