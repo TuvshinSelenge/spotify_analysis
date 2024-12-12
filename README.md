@@ -1,4 +1,4 @@
-# spotify_analysis
+# Spotify Analysis
 
 Spotify Analysis
 
