@@ -28,11 +28,10 @@ Features
 Installation
 
 To run this project locally, follow these steps:
-	1. Clone the repository: git clone https://github.com/TuvshinSelenge/spotify_analysis.git
-  2. Navigate to the project directory: cd spotify_analysis
-  3. Create a virtual environment (optional but recommended): python -m venv env
-source env/bin/activate   # On Windows: env\Scripts\activate
-  4. Install the required dependencies: pip install -r requirements.txt
+1. Clone the repository: git clone https://github.com/TuvshinSelenge/spotify_analysis.git
+2. Navigate to the project directory: cd spotify_analysis
+3. Create a virtual environment (optional but recommended): python -m venv env source env/bin/activate   # On Windows: env\Scripts\activate
+4. Install the required dependencies: pip install -r requirements.txt
 
 Technologies Used
 
