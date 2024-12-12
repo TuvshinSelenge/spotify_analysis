@@ -4,7 +4,7 @@ Spotify Analysis
 
 This repository contains a comprehensive analysis of Spotify data, focusing on preprocessing, modeling, and evaluation to uncover insights and build predictive models. The project uses Python and popular machine learning libraries to predict and analyze trends in music playlists.
 
-Overview
+### Overview
 
 The project analyzes Spotify playlist data to explore trends and build predictive models. It involves extensive data preprocessing, feature engineering, and machine learning. The ultimate goal is to understand the data’s patterns and predict playlist trends using various models.
 
@@ -25,13 +25,28 @@ Features
 			Mean Absolute Error (MAE)
 			R² Score
 
-Installation
+### Installation
 
 To run this project locally, follow these steps:
-1. Clone the repository: git clone https://github.com/TuvshinSelenge/spotify_analysis.git
-2. Navigate to the project directory: cd spotify_analysis
-3. Create a virtual environment (optional but recommended): python -m venv env source env/bin/activate   # On Windows: env\Scripts\activate
-4. Install the required dependencies: pip install -r requirements.txt
+
+```bash
+# Clone the repository
+git clone https://github.com/TuvshinSelenge/spotify_analysis.git
+
+# Navigate to the project directory
+cd spotify_analysis
+
+# Create a virtual environment (optional but recommended)
+python -m venv env
+
+# Activate the virtual environment
+# On macOS/Linux:
+source env/bin/activate
+# On Windows:
+env\Scripts\activate
+
+# Install the required dependencies
+pip install -r requirements.txt
 
 Technologies Used
 
