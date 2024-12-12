@@ -1,3 +1,5 @@
+![@neonbrand via Unsplash - person holding space gray iPhone 6](https://images.unsplash.com/photo-1495434942214-9b525bba74e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
 # Spotify Analysis
 
 This repository contains a comprehensive analysis of Spotify data, focusing on preprocessing, modeling, and evaluation to uncover insights and build predictive models. The project leverages Python and popular machine learning libraries to predict and analyze trends in music playlists.
